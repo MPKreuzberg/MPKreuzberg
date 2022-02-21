@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MPKreuzberg
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...from the schratch!
 .
 
 <!---
