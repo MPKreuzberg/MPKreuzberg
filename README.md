@@ -98,7 +98,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MPKreuzberg&theme=react&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  <br/>  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MPKreuzberg&langs_count=8&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MPKreuzberg&langs_count=8&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MPKreuzberg&&style=flat-square" align="center" />
