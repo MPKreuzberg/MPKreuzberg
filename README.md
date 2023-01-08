@@ -51,7 +51,8 @@
 <div align="center">  
 
 <img style="margin: 35px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" /> &nbsp;&nbsp;
-<img style="margin: 35px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="70" /> &nbsp;&nbsp;  
+<img style="margin: 35px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="70" /> &nbsp;&nbsp; <img style="margin: 35px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+ 
 </div>
 
 <br/> 
