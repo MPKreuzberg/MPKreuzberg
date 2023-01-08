@@ -1,7 +1,7 @@
 
   
 
-### <div align="center">I'm Igor, a full-time full-stack developer </div>  
+### <div align="center">Hi! I'm Igor, a full-time full-stack developer </div>  
   
 
 - 🔭 I’m open to work   
