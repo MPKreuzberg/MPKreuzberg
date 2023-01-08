@@ -92,22 +92,13 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MPKreuzberg&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1sa81lstmcbljtgbhlol9q5po&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MPKreuzberg&count_private=true&show_icons=true&theme=discord_old_blurple&showicons=true)]()
+  <br/>  
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MPKreuzberg&theme=react&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ <br/>  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MPKreuzberg&langs_count=8&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MPKreuzberg&&style=flat-square" align="center" />
@@ -116,14 +107,4 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/MPKreuzberg" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
