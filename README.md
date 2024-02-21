@@ -4,7 +4,7 @@
 ### <div align="center">Hi! I'm Igor, a full-time full-stack developer </div>  
   
 
-- 🔭 I’m open to work   
+- 🔭 I’m not open to work atm...
   
 
 - 🌱 I’m currently learning Golang and Microservices  
