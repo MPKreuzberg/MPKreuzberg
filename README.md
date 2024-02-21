@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I use Neovim
 
 
--meet me @ https://app.gitlab-ce.dev.beteiligungsboerse.net/ifbb
+-  meet me @ https://app.gitlab-ce.dev.beteiligungsboerse.net/ifbb
   
 
 <br/>  
