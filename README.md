@@ -13,7 +13,10 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use Neovim  
+- ⚡ Fun fact: I use Neovim
+
+
+-meet me @ https://app.gitlab-ce.dev.beteiligungsboerse.net/ifbb
   
 
 <br/>  
