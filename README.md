@@ -4,20 +4,17 @@
 ### <div align="center">Hi! I'm Igor, a full-time full-stack developer </div>  
   
 
-- 🔭 I’m not open to work atm...
+- 🔭 I’m open to work atm...
   
 
-- 🌱 I’m currently learning Golang and Microservices  
+- 🌱 I’m currently learning Java and Microservices  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
 - ⚡ Fun fact: I use Neovim
-
-
--  meet me @ https://app.gitlab-ce.dev.beteiligungsboerse.net/ifbb
-  
+ 
 
 <br/>  
 
