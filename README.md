@@ -7,7 +7,7 @@
 - 🔭 I’m open to work atm...
   
 
-- 🌱 I am currently learning CaberSecurity at Ironhack. Stay safe :-) 
+- 🌱 I am currently learning CyberSecurity at Ironhack. Stay safe :-) 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
