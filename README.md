@@ -7,7 +7,7 @@
 - 🔭 I’m open to work atm...
   
 
-- 🌱 I’m currently learning Java and Microservices  
+- 🌱 I am currently learning CaberSecurity at Ironhack. Stay safe :-) 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
