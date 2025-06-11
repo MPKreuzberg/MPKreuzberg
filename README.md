@@ -1,4 +1,4 @@
-### <div align="center">Hi! I'm Igor, a full-time full-stack developer and Malware Analyst </div>
+### <div align="center">Hi! I'm Igor, a full-time full-stack developer and Cyber Security Maniac</div>
 
 ---
 
