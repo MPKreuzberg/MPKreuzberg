@@ -38,10 +38,7 @@
   <img style="margin: 25px" src="https://img.icons8.com/color/96/openvpn.png" alt="OpenVPN" height="70" />  
   <img style="margin: 25px" src="https://img.icons8.com/glyph-neue/64/bug.png" alt="Malware Analysis" height="70" />  
   <br/><br/>
-  <img style="margin: 25px" src="https://img.icons8.com/external-flat-juicy-fish/60/external-tryhackme-cybersecurity-flat-flat-juicy-fish.png" alt="TryHackMe" height="70" />  
-  <img style="margin: 25px" src="https://img.icons8.com/ios/100/elastic-stack.png" alt="Elastic Stack" height="70" />  
-  <img style="margin: 25px" src="https://img.icons8.com/ios/100/packet-analysis.png" alt="Packet Analysis" height="70" />  
-  <img style="margin: 25px" src="https://img.icons8.com/ios/100/snort.png" alt="Snort IDS" height="70" /> <!-- Snort icon source -->  
+
 </div>
 
 
