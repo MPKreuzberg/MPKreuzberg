@@ -1,10 +1,10 @@
-### <div align="center">Hi! I'm Igor, a full-time full-stack developer </div>
+### <div align="center">Hi! I'm Igor, a full-time full-stack developer and Malware Analyst </div>
 
 ---
 
 ## 🛡️ Cybersecurity Skill Set
 
-* 🔐 Currently studying **CyberSecurity** at Ironhack
+* 🔐 Finished study **CyberSecurity** at Ironhack
 * 🧪 Malware analysis in **Windows lab environments** (FakeNet, SysInternals, Wireshark)
 * 🕵️‍♂️ Hands-on with **CTFs** and platforms like **TryHackMe**
 * 🧰 Experience with tools like **Burp Suite**, **Metasploit**, **nmap**, **Snort**, **Wireshark**
@@ -17,9 +17,9 @@
 ---
 
 * 🔭 I’m open to work atm...
-* 🌱 I am currently learning CyberSecurity at Ironhack. Stay safe :-)
-* ❓ Ask me about anything related to MERN stack and related technologies
-* ⚡ Fun fact: I use Neovim
+* 🌱 Just finished CyberSecurity at Ironhack. Stay safe :-)
+* ❓ Ask me about anything related to MERN stack CyberSecurity...life
+* ⚡ Fun fact: I use Neovim and i like Malware detonating a much :-)
 
 <br/>  
 
