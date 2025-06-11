@@ -30,7 +30,19 @@
 ## I’m Working with:
 
 <br/>  
-
+### 🛡️ Cybersecurity
+<div align="center">  
+<img style="margin: 25px" src="https://img.icons8.com/fluency/96/firewall.png" alt="Firewall" height="70" />  
+<img style="margin: 25px" src="https://img.icons8.com/color/96/kali-linux.png" alt="Kali Linux" height="70" />  
+<img style="margin: 25px" src="https://img.icons8.com/ios-filled/100/wifi-hacker.png" alt="Wireshark" height="70" />  
+<img style="margin: 25px" src="https://img.icons8.com/color/96/openvpn.png" alt="OpenVPN" height="70" />  
+<img style="margin: 25px" src="https://img.icons8.com/glyph-neue/64/bug.png" alt="Malware Analysis" height="70" />  
+<br/><br/>
+<img style="margin: 25px" src="https://img.icons8.com/external-flat-juicy-fish/60/external-magnifier-hacker-flat-flat-juicy-fish.png" alt="TryHackMe" height="70" />  
+<img style="margin: 25px" src="https://img.icons8.com/ios/100/elastic-stack.png" alt="Elastic Stack" height="70" />  
+<img style="margin: 25px" src="https://img.icons8.com/ios/100/network-card.png" alt="Packet Analysis" height="70" />  
+<img style="margin: 25px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-snort-cyber-security-flaticons-lineal-color-flat-icons.png" alt="Snort IDS" height="70" />  
+</div>
 
 
 ### Frontend
