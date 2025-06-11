@@ -30,7 +30,7 @@
 ## I’m Working with:
 
 <br/>  
-### 🛡️ Cybersecurity
+### Cybersecurity
 <div align="center">  
 <img style="margin: 25px" src="https://img.icons8.com/fluency/96/firewall.png" alt="Firewall" height="70" />  
 <img style="margin: 25px" src="https://img.icons8.com/color/96/kali-linux.png" alt="Kali Linux" height="70" />  
