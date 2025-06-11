@@ -37,8 +37,8 @@
   <img style="margin: 25px" src="https://img.icons8.com/color/96/openvpn.png" alt="OpenVPN" height="70" />  
   <img style="margin: 25px" src="https://img.icons8.com/glyph-neue/64/bug.png" alt="Malware Analysis" height="70" />  
   <br/><br/>
-  <img style="margin: 25px" src="https://img.icons8.com/external-flat-juicy-fish/60/external-tryhackme-cybersecurity-flat-flat-juicy-fish.png" alt="TryHackMe" height="70" />  
-  <img style="margin: 25px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-wireshark-programming-soft-fill-soft-fill-juicy-fish.png" alt="Wireshark" height="70" />  
+  <!--<img style="margin: 25px" src="https://img.icons8.com/external-flat-juicy-fish/60/external-tryhackme-cybersecurity-flat-flat-juicy-fish.png" alt="TryHackMe" height="70" />  
+  <img style="margin: 25px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-wireshark-programming-soft-fill-soft-fill-juicy-fish.png" alt="Wireshark" height="70" /> --> 
   <img style="margin: 25px" src="https://img.icons8.com/color/96/elasticsearch.png" alt="Elastic Stack" height="70" />  
   <img style="margin: 25px" src="https://img.icons8.com/external-flat-juicy-fish/60/external-snort-cybersecurity-flat-flat-juicy-fish.png" alt="Snort IDS" height="70" />  
 </div>
